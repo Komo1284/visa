@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>교제사실 입증자료</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 20mm;
+        }
+        
+        body {
+            font-family: 'Malgun Gothic', '맑은 고딕', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 210mm;
+            margin: 0 auto;
+            padding: 0;
+            background: white;
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #4a90e2;
+            padding-bottom: 20px;
+        }
+        
+        .header h1 {
+            font-size: 24px;
+            font-weight: bold;
+            color: #2c3e50;
+            margin: 0;
+        }
+        
+        .header p {
+            font-size: 14px;
+            color: #7f8c8d;
+            margin: 5px 0 0 0;
+        }
+        
+        .section {
+            margin-bottom: 25px;
+            page-break-inside: avoid;
+        }
+        
+        .section-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #4a90e2;
+            border-left: 4px solid #4a90e2;
+            padding-left: 10px;
+            margin-bottom: 15px;
+        }
+        
+        .timeline-item {
+            margin-bottom: 20px;
+            padding: 15px;
+            border-left: 3px solid #e8f4f8;
+            background: #f8fbff;
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+        
+        .date {
+            font-weight: bold;
+            color: #4a90e2;
+            font-size: 16px;
+            margin-bottom: 8px;
+        }
+        
+        .content {
+            font-size: 14px;
+            line-height: 1.7;
+        }
+        
+        .photo-container {
+            text-align: center;
+            margin: 15px auto;
+            page-break-inside: avoid;
+        }
+        
+        .photo-container img {
+            max-width: 450px;
+            max-height: 300px;
+            width: auto;
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .photo-small img {
+            max-width: 350px;
+            max-height: 230px;
+        }
+        
+        .photo-caption {
+            font-size: 12px;
+            color: #666;
+            margin-top: 8px;
+            font-style: italic;
+        }
+        
+        .photo-group {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px 0;
+            flex-wrap: wrap;
+        }
+        
+        .photo-group .photo-container {
+            margin: 8px;
+        }
+        
+        .photo-group .photo-container img {
+            max-width: 350px;
+            max-height: 230px;
+        }
+        
+        .important-note {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            padding: 12px;
+            margin: 15px 0;
+            border-radius: 5px;
+            font-size: 13px;
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+        
+        .highlight-box {
+            background: #e8f6f3;
+            border-left: 4px solid #27ae60;
+            padding: 15px;
+            margin: 15px 0;
+            font-size: 14px;
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+        
+        .conclusion {
+            background: #e8f6f3;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+            text-align: center;
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+        
+        .signature-section {
+            margin-top: 40px;
+            text-align: right;
+            font-size: 14px;
+        }
+        
+        .break-page {
+            page-break-before: always;
+        }
+        
+        .sub-section {
+            margin-left: 20px;
+            margin-bottom: 15px;
+            font-size: 13px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>교제사실 입증자료</h1>
+        <p>혼인까지 발전시키기까지의 교제사실 및 경과</p>
+        <p style="margin-top: 10px; font-size: 12px;">교제기간: 2021년 6월 ~ 2025년 8월 (총 4년 2개월)</p>
+    </div>
+
+    <div class="section">
+        <div class="section-title">1. 만남의 계기 및 초기 관계 형성</div>
+        
+        <div class="timeline-item">
+            <div class="date">2021년 6월 17일 - 디스코드를 통한 첫 만남</div>
+            <div class="content">
+                저희는 '디스코드(Discord)'라는 음성채팅 프로그램을 통해 처음 만나게 되었습니다. 공통 관심사인 게임을 통해 알게 되었지만, 시간이 지나면서 일상적인 대화를 나누며 서로에 대해 더 깊이 알아가게 되었습니다. 처음에는 단순한 게임 친구였지만, 점차 서로의 일상, 고민, 꿈 등을 공유하며 특별한 관계로 발전해 나갔습니다.
+            </div>
+            <div class="photo-container photo-small">
+                <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2021-06-discord-chat.jpg" alt="디스코드 채팅 기록">
+                <div class="photo-caption">디스코드 채팅 기록 캡처</div>
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="date">2021년 6월 ~ 2023년 2월 - 온라인 교류 심화 (약 20개월)</div>
+            <div class="content">
+                약 20개월 동안 디스코드를 통해 거의 매일 소통했습니다. 서로의 일상을 공유하고, 때로는 밤늦게까지 대화를 나누며 정신적으로 깊은 유대감을 형성했습니다. 이 기간 동안 서로의 가치관, 성격, 취미, 미래에 대한 계획 등을 충분히 이해할 수 있었고, 단순한 호감을 넘어선 진정한 애정을 키워나갔습니다.
+            </div>
+            <div class="sub-section">
+                • 일일 평균 2-3시간 음성채팅(단체 음성채팅이었기에 증거가 남아있지 않음)<br>
+                • 주말에는 함께 온라인 게임 및 영화 시청<br>
+                • 서로의 언어 학습 도움 (한국어 ↔ 일본어)
+            </div>
+            <div class="photo-group">
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2021-22-online-games.jpg" alt="드라마 함께 시청">
+                    <div class="photo-caption">드라마 함께 시청 채팅 기록 캡처</div>
+                </div>
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2021-22-discord-calls.jpg" alt="디스코드 채팅 기록">
+                    <div class="photo-caption">22년 디스코드 채팅 기록 캡처</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="date">2023년 2월 11일 - 도쿄에서의 첫 대면</div>
+            <div class="content">
+                제가 도쿄 여행을 계획하게 되면서, 그동안 온라인으로만 만나던 그녀를 실제로 만날 수 있는 기회가 생겼습니다. 약 20개월간 목소리로만 알던 사람을 직접 만나는 순간의 설렘과 긴장감은 지금도 생생히 기억납니다. 서로에 대한 호감과 애정이 현실에서도 그대로 이어진다는 것을 확인할 수 있었고, 이는 저희 관계의 중요한 전환점이 되었습니다.
+            </div>
+            <div class="photo-container">
+                <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2023-02-first-meeting-memorial.jpg" alt="첫 만남 기념 사진">
+                <div class="photo-caption">첫 만남 기념 사진</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section break-page">
+        <div class="section-title">2. 정식 교제 시작 및 관계 발전</div>
+        
+        <div class="timeline-item">
+            <div class="date">2023년 3월 15일 - 정식 교제 시작</div>
+            <div class="content">
+                도쿄에서의 만남 이후, 서로에 대한 마음을 확인하고 정식으로 교제를 시작하기로 결정했습니다. 한국과 일본이라는 물리적 거리가 있었지만, 그동안 온라인을 통해 쌓아온 깊은 신뢰와 애정을 바탕으로 국제연애에 대한 확신을 가지고 시작했습니다. 이때부터 더욱 진지하고 책임감 있는 관계로 발전하기 시작했습니다.
+            </div>
+            <div class="highlight-box">
+                <strong>교제 초기 계획:</strong> 정기적인 만남 일정 수립, 장거리 연애의 어려움 극복 방안 논의, 미래에 대한 구체적인 계획 수립을 통해 진지한 관계임을 서로 확인했습니다.
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="date">2023년 7월 1일 - 첫 해외여행 (유럽 3개국, 2주간)</div>
+            <div class="content">
+                교제를 시작한 지 약 4개월 후, 저희가 함께하는 첫 번째 여행으로 유럽 3개국(이탈리아, 스위스, 프랑스)을 2주간 여행했습니다. 이 여행은 저희 관계에 있어 매우 중요한 전환점이었습니다. 서로 다른 문화권에서 자란 저희가 함께 여행하며 서로의 성격, 취향, 여행 스타일, 문제 해결 방식 등을 더 깊이 이해할 수 있었습니다.
+            </div>
+            <div class="sub-section">
+                • 이탈리아: 로마, 베니스 (4일)<br>
+                • 스위스: 그린델발트, 인터라켄 (3일)<br>
+                • 프랑스: 파리 (5일)
+            </div>
+            <div class="photo-group">
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2023-07-rome-colosseum.jpg" alt="이탈리아 베니스">
+                    <div class="photo-caption">이탈리아 베니스</div>
+                </div>
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2023-07-switzerland-alps.jpg" alt="스위스 인터라켄">
+                    <div class="photo-caption">스위스 인터라켄</div>
+                </div>
+            </div>
+            <div class="photo-group">
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2023-07-switzerland.jpg" alt="스위스 그린델발트">
+                    <div class="photo-caption">스위스 그린델발트</div>
+                </div>
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2023-07-paris.jpg" alt="프랑스 파리 에펠탑">
+                    <div class="photo-caption">프랑스 파리 에펠탑</div>
+                </div>
+            </div>
+            
+            <div class="important-note">
+                <strong>여행을 통한 관계 심화:</strong> 2주간의 장기간 여행을 통해 서로의 생활 패턴, 스트레스 상황에서의 반응, 의사결정 방식 등을 충분히 파악할 수 있었습니다. 언어나 문화적 차이로 인한 어려움도 함께 극복하며 더욱 끈끈한 관계가 되었습니다.
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="date">2023년 7월 15일 ~ 2024년 9월 13일 - 장거리 관계 유지 기간</div>
+            <div class="content">
+                약 1년 2개월간은 제가 새로운 분야로의 취업을 준비하는 시기였습니다. 경제적, 시간적 제약으로 인해 직접 만나지는 못했지만, 꾸준한 온라인 소통으로 관계를 유지했습니다. 이 기간은 저희 관계의 진정성을 시험하는 중요한 시기였으며, 서로에 대한 신뢰와 애정이 얼마나 깊은지 확인할 수 있는 계기가 되었습니다.
+            </div>
+            <div class="sub-section">
+                • 서로의 근황 및 고민 상담<br>
+                • 미래 계획에 대한 지속적인 논의<br>
+                • 온라인게임을 통한 관계지속
+            </div>
+            <div class="photo-container photo-small">
+                <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2023-24-video-calls.jpg" alt="온라인 게임 채팅">
+                <div class="photo-caption">온라인 게임 꼬드기는 채팅 기록 캡처</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section break-page">
+        <div class="section-title">3. 관계 재개 및 사회적 관계 확장</div>
+        
+        <div class="timeline-item">
+            <div class="date">2024년 9월 14일 - 부산 여행 및 친구들 소개</div>
+            <div class="content">
+                2024년 9월 2일 취업에 성공한 후, 오랜만에 그녀를 한국으로 초대했습니다. 부산에서 처음으로 제 친구들에게 그녀를 소개하는 중요한 시간을 가졌습니다. 친구들과 함께 시간을 보내며 그녀가 자연스럽게 제 일상과 인간관계에 녹아들 수 있음을 확인했습니다. 제 주변 사람들 모두 그녀를 따뜻하게 받아들여 주었고, 이는 저희 관계의 사회적 인정을 받는 첫 번째 단계였습니다.
+            </div>
+            <div class="photo-group">
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2024-09-busan-haeundae-friends.jpg" alt="부산 연산 친구들과">
+                    <div class="photo-caption">부산 연산 친구들과 함께</div>
+                </div>
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2024-09-busan-downtown.jpg" alt="부산 데이트">
+                    <div class="photo-caption">부산 데이트</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="date">2024년 11월 9일 - 도쿄 및 치바현 방문</div>
+            <div class="content">
+                이번에는 제가 일본을 방문하여 그녀의 여동생을 처음 만나 함께 식사하는 시간을 가졌습니다. 또한 그녀의 고향인 치바현을 둘러보며 그녀가 자란 환경과 문화를 더 깊이 이해할 수 있었습니다. 가족과의 만남을 통해 서로의 가족 문화와 가치관을 이해하게 되었고, 향후 결혼 생활에 대한 구체적인 그림을 그릴 수 있게 되었습니다.
+            </div>
+            <div class="photo-group">
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2024-11-tokyo-sister-dinner.jpg" alt="사진관에서 커플사진">
+                    <div class="photo-caption">사진관에서 커플사진 촬영</div>
+                </div>
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2024-11-chiba-hometown.jpg" alt="치바현 시골">
+                    <div class="photo-caption">치바현 시골 마을</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="date">2025년 1월 23일 - 오사카, 교토 여행</div>
+            <div class="content">
+                제 오사카 출장을 계기로 그녀와 함께 오사카와 교토를 여행했습니다. 출장이 끝난 금요일부터 주말까지 함께 보내며, 일과 개인적인 관계의 균형을 어떻게 맞춰갈지에 대해서도 서로 깊이 있는 대화를 나눌 수 있었습니다. 특히 역사적인 도시인 교토에서 함께 시간을 보내며 저희의 미래와 결혼에 대해 더욱 진지하게 논의하게 되었습니다.
+            </div>
+            <div class="photo-group">
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-01-osaka-dotonbori.jpg" alt="교토 호텔 앞">
+                    <div class="photo-caption">교토 호텔 앞</div>
+                </div>
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-01-kyoto-kiyomizu.jpg" alt="교토 술집거리">
+                    <div class="photo-caption">교토 분위기 좋았던 술집거리</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section break-page">
+        <div class="section-title">4. 결혼 의사 확정 및 양가 가족 소개</div>
+        
+        <div class="timeline-item">
+            <div class="date">2025년 3월 20일 - 울산, 포항, 부산 (제 부모님께 첫 인사)</div>
+            <div class="content">
+                제가 회사 앞 원룸에서 자취하던 울산을 보여드리고, 한일부부인 친구가 사는 포항을 방문한 후, 부산에서 제 부모님께 처음으로 정식 인사를 드렸습니다. 실제 한일부부 친구들을 만나 국제결혼의 현실적인 조언을 들을 수 있었고, 성공적인 한일부부의 사례를 직접 보며 저희도 충분히 행복한 결혼 생활을 할 수 있다는 확신을 얻었습니다.
+            </div>
+            <div class="sub-section">
+                • 울산: 제 직장 및 자취방 소개<br>
+                • 포항: 한일부부 친구 방문, 경험담 청취<br>
+                • 부산: 부모님께 정식 인사 및 교제 관계 보고
+            </div>
+            <div class="photo-group">
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-03-ulsan-apartment.jpg" alt="울산 노래방">
+                    <div class="photo-caption">울산 집 근처 노래방 앞</div>
+                </div>
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-03-pohang-friends.jpg" alt="포항 한일부부 친구들">
+                    <div class="photo-caption">포항 한일부부 친구들과</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="date">2025년 4월 30일 - 치바현 (여자친구 부모님께 첫 인사)</div>
+            <div class="content">
+                이번에는 제가 그녀의 부모님께 정식으로 인사를 드리는 매우 중요한 날이었습니다. 일본의 전통적인 예의를 지키며 그녀의 부모님께 저희의 교제 관계를 정식으로 알리고, 향후 결혼 계획에 대해 진지하게 말씀드렸습니다. 언어적 장벽이 있었음에도 불구하고 진심이 통했고, 그녀의 부모님께서도 저희 관계를 이해하고 응원해 주시기로 하셨습니다.
+            </div>
+            <div class="photo-group">
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-04-girlfriend-parents-meeting.jpg" alt="아쿠아리움 가는 길">
+                    <div class="photo-caption">여자친구 집근처 아쿠아리움 가는길</div>
+                </div>
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-04-chiba-family-dinner.jpg" alt="목장에서">
+                    <div class="photo-caption">여자친구 집근처 목장에서</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="date">2025년 6월 21일 - 부산, 포항 (가족 관계 심화 및 결혼식 참석)</div>
+            <div class="content">
+                제 부모님과 그녀가 함께 편안한 분위기에서 식사하는 시간을 가졌고, 3월에 만났던 한일부부 친구의 결혼식에 함께 참석했습니다. 실제 한일부부의 결혼식을 함께 참석하며 저희의 미래 모습을 구체적으로 그려볼 수 있었고, 국제결혼에 대한 확신을 더욱 굳힐 수 있었습니다. 또한 다른 한일부부들과의 네트워킹을 통해 많은 조언과 정보를 얻을 수 있었습니다.
+            </div>
+            <div class="photo-group">
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-06-family-dinner-casual.jpg" alt="부모님과 식사">
+                    <div class="photo-caption">부모님과 편안한 식사</div>
+                </div>
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-06-wedding-ceremony.jpg" alt="한일부부 친구 결혼식">
+                    <div class="photo-caption">한일부부 친구 결혼식</div>
+                </div>
+            </div>
+            <div class="photo-container photo-small">
+                <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-06-wedding-group-photo.jpg" alt="결혼식 후 단체 사진">
+                <div class="photo-caption">결혼식 후 단체 사진</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section break-page">
+        <div class="section-title">5. 혼인 준비 및 신혼 생활 체험</div>
+        
+        <div class="timeline-item">
+            <div class="date">2025년 8월 초 - 양산에서 신혼 생활 체험</div>
+            <div class="content">
+                그녀가 한국 이민 준비를 위해 일본에서 퇴사하여 시간적 여유가 생기자, 양산에서 약 1주일간 함께 생활하며 실제 신혼 생활을 미리 체험해 보았습니다. 일상적인 생활 패턴, 가사 분담, 식사 준비, 쇼핑, 집안일 등을 함께 하며 실제 결혼 생활에서 발생할 수 있는 다양한 상황들을 미리 경험해 볼 수 있었습니다. 이 기간을 통해 저희가 실제로 함께 살아갈 수 있다는 확실한 확신을 얻었습니다.
+            </div>
+            <div class="sub-section">
+                • 일상 생활 패턴 조율<br>
+                • 한국 생활 적응 연습<br>
+                • 가사 분담 및 협력<br>
+                • 근처 마트, 병원 등 생활 인프라 파악
+            </div>
+            <div class="photo-group">
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-08-yangsan-cooking.jpg" alt="양산에서 요리">
+                    <div class="photo-caption">양산 집에서 함께 요리</div>
+                </div>
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-08-yangsan-daily-life.jpg" alt="신혼 체험 일상">
+                    <div class="photo-caption">신혼 체험 일상 모습</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="date">2025년 8월 말 - 양가 상견례 및 혼인신고</div>
+            <div class="content">
+                드디어 그녀의 부모님과 여동생이 부산에 오셔서 정식 양가 상견례를 진행했습니다. 양가 부모님이 처음 만나시는 자리에서 저희의 결혼에 대한 공식적인 축복을 받았고, 앞으로의 계획에 대해서도 상의할 수 있었습니다. 상견례 이후 즉시 한국에서 혼인신고를 완료하여 법적으로도 부부가 되었습니다. 이는 저희 관계가 단순한 연애를 넘어서 사회적, 법적으로 인정받는 결혼으로 발전한 매우 의미 있는 순간이었습니다.
+            </div>
+            <div class="photo-group">
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-08-formal-meeting-dinner.jpg" alt="양가 상견례 식사">
+                    <div class="photo-caption">양가 상견례 식사</div>
+                </div>
+                <div class="photo-container">
+                    <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-08-both-families.jpg" alt="양가 부모님 단체 사진">
+                    <div class="photo-caption">양가 부모님 단체 사진</div>
+                </div>
+            </div>
+            <div class="photo-container">
+                <img src="C:\Users\karan\OneDrive\바탕 화면\visa\images\2025-08-marriage-registration.jpg" alt="혼인신고서 제출">
+                <div class="photo-caption">혼인신고서 제출</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">6. 향후 계획 및 결혼 생활 준비</div>
+        
+        <div class="timeline-item">
+            <div class="date">2025년 9월 예정 - 일본에서의 혼인신고 및 비자 신청</div>
+            <div class="content">
+                9월 초에 일본을 방문하여 일본에서도 혼인신고를 완료하고, 즉시 한국 대사관에서 배우자 비자 신청을 진행할 예정입니다. 이를 통해 그녀가 합법적으로 한국에 거주하며 저희가 함께 생활할 수 있는 기반을 마련하게 됩니다.
+            </div>
+        </div>
+
+        <div class="highlight-box">
+            <strong>미래 계획:</strong>
+            <br>• 2025년 10월: 한국 정착 및 신혼 생활 시작
+            <br>• 한국어 학습 지속 및 한국 문화 적응
+            <br>• 안정적인 가정 기반 마련 후 향후 가족 계획 수립
+            <br>• 양국 가족들과의 지속적인 교류 및 관계 유지
+        </div>
+    </div>
+
+    <div class="conclusion">
+        <div class="section-title">결론</div>
+        <div class="content">
+            저희는 2021년 온라인에서의 첫 만남부터 시작하여 약 4년 2개월간의 신중하고 진지한 교제 기간을 거쳐 혼인에 이르게 되었습니다. 이 기간 동안 물리적 거리의 어려움을 극복하고, 서로 다른 문화와 언어의 장벽을 뛰어넘어 진정한 사랑을 키워왔습니다.
+            <br><br>
+            특히 약 20개월간의 온라인 교류를 통해 정신적 유대감을 충분히 형성한 후 직접 만나기 시작했고, 양가 부모님께 정식으로 인사를 드리며 가족들의 축복을 받은 것은 저희 관계가 단순한 연애가 아닌, 책임감 있는 결혼을 향한 진지한 교제였음을 보여줍니다.
+            <br><br>
+            앞으로도 서로를 존중하고 이해하며, 두 나라의 문화를 융합한 아름다운 가정을 한국에서 이루어 나가겠습니다.
+        </div>
+    </div>
+
+    <div class="signature-section">
+        <p>작성일: 2025년 9월 일</p>
+        <p>작성자: 서강혁</p>
+        <p style="margin-top: 10px; font-size: 12px;">첨부 사진: 총 21장</p>
+    </div>
+</body>
+</html>
